@@ -1,0 +1,128 @@
+canonical_identifier: bkk:krp/KR6e0086/T/v1
+canonical_location: https://kanripo.org/bkk/KR6e0086/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴策林
+  identifiers:
+    krp: KR6e0086
+    cbeta: T45n1872
+    cbeta_old_id: T45n1872
+    authorityid: CA0001394
+    json_key: T1872
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1872.xml
+    old_id: T45n1872
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0086_000-T.yaml, hash: 'sha256:1cbff426a5809e3b822ea106fa3753ac7ee40aa7411717ffb0e50bc2a1aa07eb'}
+  - {seq: 1, filename: KR6e0086_001-T.yaml, hash: 'sha256:a117d5db59e987ac4b958fa44cbdfab90ede20d37a7e392b170578a8486139ff'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6e0086_000-T.markers.yaml, hash: 'sha256:04e89aa75e2414ed3ccf8ebb230e2330a5579621ec0cfe75fdb36015d6745b7d'}
+  - {seq: 1, role: markers, filename: assets/KR6e0086_001-T.markers.yaml, hash: 'sha256:cc42169dc0e1b902ad4d26c378efb2256d1b49e99070876ed66a274e42cb4790'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0086_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1834
+  label: 華嚴策林
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0086_T_001-mulu-1
+    span:
+    - body
+    - 181
+    - 181
+  label: 一徵普眼
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0086_T_001-mulu-2
+    span:
+    - body
+    - 364
+    - 364
+  label: 二明理事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0086_T_001-mulu-3
+    span:
+    - body
+    - 515
+    - 515
+  label: 三辨正因
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0086_T_001-mulu-4
+    span:
+    - body
+    - 728
+    - 728
+  label: 四融大小
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0086_T_001-mulu-5
+    span:
+    - body
+    - 906
+    - 906
+  label: 五結成壞
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0086_T_001-mulu-6
+    span:
+    - body
+    - 1034
+    - 1034
+  label: 六通二界
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0086_T_001-mulu-7
+    span:
+    - body
+    - 1207
+    - 1207
+  label: 七明隱顯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0086_T_001-mulu-8
+    span:
+    - body
+    - 1366
+    - 1366
+  label: 八明因果
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0086_T_001-mulu-9
+    span:
+    - body
+    - 1552
+    - 1552
+  label: 九達色空
+  type: mulu
+  level: 1
+hash: sha256:2a28a43d2dd5b97318b03478bf8d74281bd89fd2596b84031db28b07c0bc582c
