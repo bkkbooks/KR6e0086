@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6e0086_000.yaml, hash: 'sha256:1cbff426a5809e3b822ea106fa3753ac7ee40aa7411717ffb0e50bc2a1aa07eb'}
-  - {seq: 1, filename: KR6e0086_001.yaml, hash: 'sha256:89b27c38a11b613f2582d68adaf402cd3020d4440cb53d137b6c414f9e93c92d'}
+  - {seq: 1, filename: KR6e0086_001.yaml, hash: 'sha256:a117d5db59e987ac4b958fa44cbdfab90ede20d37a7e392b170578a8486139ff'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6e0086_001.markers.yaml, hash: 'sha256:ea7a3c996e015f80500aa9447c63fa1c3c343b24cc7c552dbb8b0a84322c4f6d'}
+  - {seq: 0, role: markers, filename: assets/KR6e0086_000.markers.yaml, hash: 'sha256:8c2ce809b105779c700cef7f1a382800797bc0a983b14f3ce4ed1491b47e1b55'}
+  - {seq: 1, role: markers, filename: assets/KR6e0086_001.markers.yaml, hash: 'sha256:ca8bac09d6d3771ac5d21039f403ddb02efef8b8893fbb74bf3b364352c0040e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -129,7 +130,4 @@ table_of_contents:
   label: 九達色空
   type: mulu
   level: 1
-hash: sha256:b1010014434167cb5ad89e081da60cfb542996f2a17b9e315ed220a71f510b7b
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c6053e3ae35faa9d0905fd6424fd8f3be960515eb7f556fb8225873d0aea7219
